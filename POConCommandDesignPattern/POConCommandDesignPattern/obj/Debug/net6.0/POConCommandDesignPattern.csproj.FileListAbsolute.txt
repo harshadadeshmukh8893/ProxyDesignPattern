@@ -1,0 +1,15 @@
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\bin\Debug\net6.0\POConCommandDesignPattern.exe
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\bin\Debug\net6.0\POConCommandDesignPattern.deps.json
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\bin\Debug\net6.0\POConCommandDesignPattern.runtimeconfig.json
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\bin\Debug\net6.0\POConCommandDesignPattern.dll
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\bin\Debug\net6.0\POConCommandDesignPattern.pdb
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\POConCommandDesignPattern.csproj.AssemblyReference.cache
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\POConCommandDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\POConCommandDesignPattern.AssemblyInfoInputs.cache
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\POConCommandDesignPattern.AssemblyInfo.cs
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\POConCommandDesignPattern.csproj.CoreCompileInputs.cache
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\POConCommandDesignPattern.dll
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\refint\POConCommandDesignPattern.dll
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\POConCommandDesignPattern.pdb
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\POConCommandDesignPattern.genruntimeconfig.cache
+D:\MonoDotNet03\SESSION29\POConCommandDesignPattern\POConCommandDesignPattern\obj\Debug\net6.0\ref\POConCommandDesignPattern.dll
